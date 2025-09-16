@@ -242,15 +242,3 @@ class linkedList extends createNode {
 const list = new linkedList();
 
 list.append('dog');
-list.append('crab');
-list.append('cat');
-list.append('bear');
-
-// list.isEmpty();
-// list.getHead();
-// list.getTail();
-// list.atIndex(1);
-// list.pop();
-// list.toString();
-// list.contains('cat');
-// list.find('crab');
