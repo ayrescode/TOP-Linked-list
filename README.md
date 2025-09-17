@@ -68,8 +68,8 @@ console.log(list.find('A')); // 0
 ```
 
 
-# API Reference
-LinkedList Methods
+# LinkedList Methods
+
 * **append(value):** Adds a new node containing value to the end of the list.
 * **prepend(value):** Adds a new node containing value to the start of the list.
 * **size():** Returns the total number of nodes in the list.
